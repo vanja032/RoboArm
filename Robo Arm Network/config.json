@@ -1,0 +1,7 @@
+{
+  "host_device": "127.0.0.1",
+  "port_device": 50000,
+  "device": "/dev/ttyS0",
+  "baudrate": 9600,
+  "queue_size": 2048
+}
